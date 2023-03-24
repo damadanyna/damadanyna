@@ -1,22 +1,5 @@
-<p align="center">
-  <img src= "https://user-images.githubusercontent.com/60171474/227435586-cb66e71a-d6ff-41d8-829c-d4ac81268090.jpg" width="350" title="Dama Dany"
-       style=" width:25%;height:25%;border-radius:40%"
-       >
-</p>
-<!-- [00000PORTRAIT_00000_BURST20230320111219528](your_relative_path_here]) -->
-### Hi there 👋
 
-<!--
-**damadanyna/damadanyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style=" width: 100%;" >
+    <img src= "https://user-images.githubusercontent.com/60171474/227435586-cb66e71a-d6ff-41d8-829c-d4ac81268090.jpg"   title="Dama Dany"
+       style="width:  300px; height: 300px;">
+ </div>
