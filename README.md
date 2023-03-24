@@ -4,5 +4,5 @@
     > 
 </div>
  
-** `#0969DA` Dama Dany
+#Dama Dany
 [Mon Portfolio](damadanyprofil.surge.sh)
