@@ -4,7 +4,7 @@
 # 👋 Bonjour, je suis [Dama Dany](http://damadanyprofil.surge.sh/)
 
 ## Développeur **full-stack**
-🔭 Experts dans la production informatique Agile,🌱 Assure la développement des solutions WEB et MOBILE pour votre startup, PME ✨✨✨ .
+🔭 Experts dans la production informatique Agile,🌱 Assure la développement des solutions WEB et MOBILE pour votre startup, PME ✨✨✨
 
     
 ⚡ ⚡ Le talent, ça n’existe pas. Le talent, c’est d’avoir envie de faire des choses ⚡ ⚡ 
