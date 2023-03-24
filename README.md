@@ -5,8 +5,10 @@
     
 # 👋 Bonjour, je suis [Dama Dany](damadanyprofil.surge.sh)
 
-## Développeur **full-stact** 
-- ⚡ ⚡ Le talent, ça n’existe pas. Le talent, c’est d’avoir envie de faire des choses
+## Développeur **full-stact**, 
+🔭 Experts dans la production informatique Agile, 🌱 nous développons des solutions WEB et MOBILE pour les startups, PME .
+
+- ⚡ ⚡ Le talent, ça n’existe pas. Le talent, c’est d’avoir envie de faire des choses ⚡ ⚡ 
 </div>
  
 
