@@ -1,4 +1,8 @@
-![00000PORTRAIT_00000_BURST20230320111219528](https://user-images.githubusercontent.com/60171474/227435586-cb66e71a-d6ff-41d8-829c-d4ac81268090.jpg)
+<p align="center">
+  <img src= "https://user-images.githubusercontent.com/60171474/227435586-cb66e71a-d6ff-41d8-829c-d4ac81268090.jpg" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
+<!-- [00000PORTRAIT_00000_BURST20230320111219528](your_relative_path_here]) -->
 ### Hi there 👋
 
 <!--
